@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://www.epicswap.finance/'
+    href: 'https://www.epicswap.io/'
   },
   {
     label: 'Trade',
@@ -24,17 +24,17 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://www.epicswap.finance/farms'
+    href: 'https://www.epicswap.io/farms'
   },
   {
     label: 'Nests',
     icon: 'PoolIcon',
-    href: 'https://www.epicswap.finance/nests'
+    href: 'https://www.epicswap.io/nests'
   },
   // {
   //   label: 'Lottery',
   //   icon: 'TicketIcon',
-  //   href: 'https://www.epicswap.finance/lottery'
+  //   href: 'https://www.epicswap.io/lottery'
   // },
   {
     label: 'Info',
@@ -84,7 +84,7 @@ const config: MenuEntry[] = [
   {
     label: 'Audit by Hacken',
     icon: 'AuditIcon',
-    href: 'https://www.epicswap.finance/files/hackenAudit.pdf',
+    href: 'https://www.epicswap.io/files/hackenAudit.pdf',
   },
   {
     label: 'Audit by CertiK',
