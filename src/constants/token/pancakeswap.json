@@ -11,9 +11,9 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
-      "name": "Pill Swap",
-      "symbol": "PILL",
-      "address": "0x30851F43F793c9E61646D95F29D3C5b8c69866de",
+      "name": "EpicSwap Token",
+      "symbol": "EPIC",
+      "address": "0x167affEF52469f80970cCf2bA6616F8f9dc239a7",
       "chainId": 56,
       "decimals": 18
     },
