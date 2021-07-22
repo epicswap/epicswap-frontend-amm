@@ -22,9 +22,9 @@ const config: MenuEntry[] = [
     ]
   },
   {
-    label: 'Farms',
+    label: 'Code',
     icon: 'FarmIcon',
-    href: 'https://www.epicswap.io/farms'
+    href: 'https://www.epicswap.io/code'
   },
   {
     label: 'Developing',
