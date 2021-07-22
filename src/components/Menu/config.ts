@@ -27,9 +27,9 @@ const config: MenuEntry[] = [
     href: 'https://www.epicswap.io/farms'
   },
   {
-    label: 'Nests',
+    label: 'Developing',
     icon: 'PoolIcon',
-    href: 'https://www.epicswap.io/nests'
+    href: 'https://www.epicswap.io/developing'
   },
   // {
   //   label: 'Lottery',
