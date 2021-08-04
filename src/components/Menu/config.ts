@@ -31,6 +31,18 @@ const config: MenuEntry[] = [
     icon: 'PoolIcon',
     href: 'https://www.epicswap.io/developing'
   },
+  {
+    label: 'Lottery (Coming Soon)',
+    icon: 'TicketIcon',
+    href: '',
+    // href: '',
+  },
+  {
+    label: 'IFO (Coming Soon)',
+    icon: 'IfoIcon',
+    href: '/ifo',
+    // href: '',
+  },
   // {
   //   label: 'Lottery',
   //   icon: 'TicketIcon',
