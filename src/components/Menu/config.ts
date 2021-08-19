@@ -40,8 +40,13 @@ const config: MenuEntry[] = [
   {
     label: 'IFO (Coming Soon)',
     icon: 'IfoIcon',
-    href: '/ifo',
+    href: '',
     // href: '',
+  },
+  {
+    label: 'Referrals (Coming Soon)',
+    icon: 'IfoIcon',
+    href: '',
   },
   // {
   //   label: 'Lottery',
