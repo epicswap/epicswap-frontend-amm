@@ -45,7 +45,7 @@ const config: MenuEntry[] = [
   },
   {
     label: 'Referrals (Coming Soon)',
-    icon: 'IfoIcon',
+    icon: 'HandshakeIcon',
     href: '',
   },
   // {
