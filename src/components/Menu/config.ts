@@ -50,7 +50,7 @@ const config: MenuEntry[] = [
     href: '/referrals',
   },
   {
-    label: 'Info',
+    label: 'Info (Coming Soon)',
     // icon: 'ReferralsIcon',
     icon: 'InfoIcon',
     href: '/info',
