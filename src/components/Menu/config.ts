@@ -53,7 +53,7 @@ const config: MenuEntry[] = [
     label: 'Info (Coming Soon)',
     // icon: 'ReferralsIcon',
     icon: 'InfoIcon',
-    href: '/info',
+    href: '',
   },
   // {
   //   label: 'NFT',
