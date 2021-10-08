@@ -1,4 +1,4 @@
-import { MenuEntry } from '@epicswap/uikit'
+import { MenuEntry } from 'flydex-uikit'
 
 const config: MenuEntry[] = [
   {
@@ -22,32 +22,32 @@ const config: MenuEntry[] = [
     ]
   },
   {
-    label: 'Code',
+    label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://www.epicswap.io/code'
+    href: 'https://www.epicswap.io/farms'
   },
   {
-    label: 'Developing',
+    label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://www.epicswap.io/developing'
+    href: 'https://www.epicswap.io/pools'
   },
-  {
-    label: 'Lottery (Coming Soon)',
-    icon: 'TicketIcon',
-    href: '',
-    // href: '',
-  },
-  {
-    label: 'IFO (Coming Soon)',
-    icon: 'IfoIcon',
-    href: '',
-    // href: '',
-  },
-  {
-    label: 'Referrals (Coming Soon)',
-    icon: 'HandshakeIcon',
-    href: '',
-  },
+  // {
+  //   label: 'Lottery (Coming Soon)',
+  //   icon: 'TicketIcon',
+  //   href: '',
+  //   // href: '',
+  // },
+  // {
+  //   label: 'IFO (Coming Soon)',
+  //   icon: 'IfoIcon',
+  //   href: '',
+  //   // href: '',
+  // },
+  // {
+  //   label: 'Referrals (Coming Soon)',
+  //   icon: 'HandshakeIcon',
+  //   href: '',
+  // },
   // {
   //   label: 'Lottery',
   //   icon: 'TicketIcon',
@@ -59,7 +59,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'PancakeSwap',
-        href: 'https://pancakeswap.info/token/0xbA01b008d1530baB2b0DFeFd7a883028EA21d14E',
+        href: 'https://pancakeswap.info/token/0x0041Bac4BEeDFe967CAA491ce058f61C14dF5CFb',
       },
       {
         label: 'CoinGecko',
@@ -71,7 +71,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'AstroTools',
-        href: 'https://app.astrotools.io/pancake-pair-explorer/0xbA01b008d1530baB2b0DFeFd7a883028EA21d14E',
+        href: 'https://app.astrotools.io/pancake-pair-explorer/0x0041Bac4BEeDFe967CAA491ce058f61C14dF5CFb',
       },
     ]
   },

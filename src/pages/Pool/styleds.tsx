@@ -1,4 +1,4 @@
-import { Text } from '@epicswap/uikit'
+import { Text } from 'flydex-uikit'
 import styled from 'styled-components'
 
 export const Wrapper = styled.div`

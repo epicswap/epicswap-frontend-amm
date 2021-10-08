@@ -1,11 +1,10 @@
 {
-  "name": "epicswap-frontend-amm",
+  "name": "flydex-amm",
   "description": "AMM Interface",
   "homepage": ".",
   "private": true,
   "dependencies": {
     "@crowdin/crowdin-api-client": "^1.8.16",
-    "@epicswap/uikit": "^0.10.10",
     "@ethersproject/experimental": "^5.0.1",
     "@pancakeswap-libs/sdk": "1.0.1",
     "@popperjs/core": "^2.4.4",
@@ -39,6 +38,7 @@
     "cids": "^1.0.0",
     "copy-to-clipboard": "^3.2.0",
     "ethers": "^5.0.7",
+    "flydex-uikit": "epicswap/FLyDEX-uikit",
     "i18next": "^15.0.9",
     "i18next-browser-languagedetector": "^3.0.1",
     "i18next-xhr-backend": "^2.0.1",

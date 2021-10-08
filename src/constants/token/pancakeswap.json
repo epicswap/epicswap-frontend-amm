@@ -11,12 +11,12 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
-      "name": "EpicSwap Token",
-      "symbol": "EPIC",
-      "address": "0xbA01b008d1530baB2b0DFeFd7a883028EA21d14E",
+      "name": "FLyDEX Token",
+      "symbol": "FLy",
+      "address": "0x0041Bac4BEeDFe967CAA491ce058f61C14dF5CFb",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "/images/coins/EPIC.png"
+      "logoURI": "/images/coins/FLy.png"
     },
     {
       "name": "AUTOv2",

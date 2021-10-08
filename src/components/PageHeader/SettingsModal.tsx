@@ -1,5 +1,5 @@
 import React from 'react'
-import { Modal } from '@epicswap/uikit'
+import { Modal } from 'flydex-uikit'
 import SlippageToleranceSetting from './SlippageToleranceSetting'
 import TransactionDeadlineSetting from './TransactionDeadlineSetting'
 
