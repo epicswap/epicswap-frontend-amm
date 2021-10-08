@@ -29,37 +29,44 @@ const config: MenuEntry[] = [
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://www.epicswap.io/pools'
+    href: 'https://www.epicswap.io/developing'
+  },
+  {
+    label: 'Lottery',
+    icon: 'TicketIcon',
+    href: '',
+    // href: '',
+  },
+  {
+    label: 'IFO',
+    icon: 'IfoIcon',
+    href: '',
+    // href: '',
+  },
+  {
+    label: 'Referrals',
+    // icon: 'ReferralsIcon',
+    icon: 'GroupsIcon',
+    href: '/referrals',
+  },
+  {
+    label: 'Info (Coming Soon)',
+    // icon: 'ReferralsIcon',
+    icon: 'InfoIcon',
+    href: '',
   },
   // {
-  //   label: 'Lottery (Coming Soon)',
-  //   icon: 'TicketIcon',
-  //   href: '',
-  //   // href: '',
-  // },
-  // {
-  //   label: 'IFO (Coming Soon)',
-  //   icon: 'IfoIcon',
-  //   href: '',
-  //   // href: '',
-  // },
-  // {
-  //   label: 'Referrals (Coming Soon)',
-  //   icon: 'HandshakeIcon',
-  //   href: '',
-  // },
-  // {
-  //   label: 'Lottery',
-  //   icon: 'TicketIcon',
-  //   href: 'https://www.epicswap.io/lottery'
+  //   label: 'NFT',
+  //   icon: 'NftIcon',
+  //   href: '/nft',
   // },
   {
-    label: 'Info',
-    icon: 'InfoIcon',
+    label: 'Listings',
+    icon: 'HandshakeIcon',
     items: [
       {
         label: 'PancakeSwap',
-        href: 'https://pancakeswap.info/token/0x0041Bac4BEeDFe967CAA491ce058f61C14dF5CFb',
+        href: 'https://pancakeswap.info/token/0x182Db9378Eb8FB4Eee006074bF4377c3D932620e',
       },
       {
         label: 'CoinGecko',
@@ -71,42 +78,42 @@ const config: MenuEntry[] = [
       },
       {
         label: 'AstroTools',
-        href: 'https://app.astrotools.io/pancake-pair-explorer/0x0041Bac4BEeDFe967CAA491ce058f61C14dF5CFb',
+        href: 'https://app.astrotools.io/pancake-pair-explorer/0x182Db9378Eb8FB4Eee006074bF4377c3D932620e',
       },
-    ]
+    ],
   },
   {
     label: 'More',
     icon: 'MoreIcon',
     items: [
       {
-        label: "Github",
-        href: "https://github.com/epicswap/",
+        label: 'Github',
+        href: 'https://github.com/epicswap/',
       },
       {
-        label: "Docs",
-        href: "https://epicswap.gitbook.io/epicswap/",
+        label: 'Docs',
+        href: 'https://epicswap.gitbook.io/epicswap/',
       },
       {
-        label: "Blog",
-        href: "https://goosefinance.medium.com/",
+        label: 'Medium',
+        href: 'https://epicswap.medium.com/',
       },
     ],
   },
   {
     label: 'Partnerships/IFO',
     icon: 'GooseIcon',
-    href: 'https://docs.google.com/forms/d/e/1FAIpQLSe7ycrw8Dq4C5Vjc9WNlRtTxEhFDB1Ny6jlAByZ2Y6qBo7SKg/viewform?usp=sf_link',
+    href: '',
   },
   {
     label: 'Audit by Hacken',
     icon: 'AuditIcon',
-    href: 'https://www.epicswap.io/files/hackenAudit.pdf',
+    href: '',
   },
   {
     label: 'Audit by CertiK',
     icon: 'AuditIcon',
-    href: 'https://certik.org/projects/goose-finance',
+    href: '',
   },
 ]
 

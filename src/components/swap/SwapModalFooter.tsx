@@ -87,7 +87,7 @@ export default function SwapModalFooter({
           </RowFixed>
           <FormattedPriceImpact priceImpact={priceImpactWithoutFee} />
         </RowBetween>
-        <RowBetween>
+        {/* <RowBetween>
           <RowFixed>
             <Text fontSize="14px">Liquidity Provider Fee</Text>
             <QuestionHelper text="For each trade a 0.2% fee is paid. 0.17% goes to liquidity providers and 0.03% goes to the PancakeSwap treasury." />
@@ -95,7 +95,7 @@ export default function SwapModalFooter({
           <Text fontSize="14px">
             {realizedLPFee ? `${realizedLPFee?.toSignificant(6)} ${trade.inputAmount.currency.symbol}` : '-'}
           </Text>
-        </RowBetween>
+        </RowBetween> */}
       </AutoColumn>
 
       <AutoRow>
