@@ -1,6 +1,6 @@
 import React from 'react'
 import { Currency, Percent, Price } from '@pancakeswap-libs/sdk'
-import { Text } from 'flydex-uikit'
+import { Text } from '@epicswap/uikit'
 import { AutoColumn } from '../../components/Column'
 import { AutoRow } from '../../components/Row'
 import { ONE_BIPS } from '../../constants'

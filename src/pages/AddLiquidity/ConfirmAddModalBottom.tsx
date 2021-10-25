@@ -1,6 +1,6 @@
 import { Currency, CurrencyAmount, Fraction, Percent } from '@pancakeswap-libs/sdk'
 import React from 'react'
-import { Button } from 'flydex-uikit'
+import { Button } from '@epicswap/uikit'
 import { RowBetween, RowFixed } from '../../components/Row'
 import CurrencyLogo from '../../components/CurrencyLogo'
 import { Field } from '../../state/mint/actions'

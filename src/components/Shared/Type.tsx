@@ -1,5 +1,5 @@
 import React from 'react'
-import { Text } from 'flydex-uikit'
+import { Text } from '@epicswap/uikit'
 
 export const TYPE = {
   main(props: any) {

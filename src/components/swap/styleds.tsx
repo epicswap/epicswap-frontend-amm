@@ -1,7 +1,7 @@
 import { transparentize } from 'polished'
 import React from 'react'
 import { AlertTriangle } from 'react-feather'
-import { Text } from 'flydex-uikit'
+import { Text } from '@epicswap/uikit'
 import styled, { css } from 'styled-components'
 import { AutoColumn } from '../Column'
 

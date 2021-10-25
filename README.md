@@ -1,6 +1,6 @@
-# FLyDEX Exchange
+# EpicSwap Exchange
 
-[FLyDEX](https://epicswap.io/) is an automated market maker (“**AMM**”) that allows two tokens to be exchanged on the [Binance Smart Chain](https://www.binance.org/en/smartChain) (BSC). It is fast, cheap, and allows anyone to participate.
+[EpicSwap](https://epicswap.io/) is an automated market maker (“**AMM**”) that allows two tokens to be exchanged on the [Binance Smart Chain](https://www.binance.org/en/smartChain) (BSC). It is fast, cheap, and allows anyone to participate.
 
 This repo is responsible for the **exchange** interface of the AMM: [exchange.epicswap.io](https://exchange.epicswap.io/)
 
