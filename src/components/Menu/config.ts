@@ -32,27 +32,18 @@ const config: MenuEntry[] = [
     href: 'https://www.epicswap.io/developing'
   },
   {
-<<<<<<< HEAD
     label: 'Lottery',
-=======
-    label: 'Lottery (Coming Soon)',
->>>>>>> parent of 4b0d154 (update)
     icon: 'TicketIcon',
     href: '',
     // href: '',
   },
   {
-<<<<<<< HEAD
     label: 'IFO',
-=======
-    label: 'IFO (Coming Soon)',
->>>>>>> parent of 4b0d154 (update)
     icon: 'IfoIcon',
     href: '',
     // href: '',
   },
   {
-<<<<<<< HEAD
     label: 'Referrals',
     // icon: 'ReferralsIcon',
     icon: 'GroupsIcon',
@@ -68,16 +59,6 @@ const config: MenuEntry[] = [
   //   label: 'NFT',
   //   icon: 'NftIcon',
   //   href: '/nft',
-=======
-    label: 'Referrals (Coming Soon)',
-    icon: 'HandshakeIcon',
-    href: '',
-  },
-  // {
-  //   label: 'Lottery',
-  //   icon: 'TicketIcon',
-  //   href: 'https://www.epicswap.io/lottery'
->>>>>>> parent of 4b0d154 (update)
   // },
   {
     label: 'Listings',
@@ -85,11 +66,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'PancakeSwap',
-<<<<<<< HEAD
         href: 'https://pancakeswap.info/token/0x182Db9378Eb8FB4Eee006074bF4377c3D932620e',
-=======
-        href: 'https://pancakeswap.info/token/0xbA01b008d1530baB2b0DFeFd7a883028EA21d14E',
->>>>>>> parent of 4b0d154 (update)
       },
       {
         label: 'CoinGecko',
@@ -101,11 +78,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'AstroTools',
-<<<<<<< HEAD
         href: 'https://app.astrotools.io/pancake-pair-explorer/0x182Db9378Eb8FB4Eee006074bF4377c3D932620e',
-=======
-        href: 'https://app.astrotools.io/pancake-pair-explorer/0xbA01b008d1530baB2b0DFeFd7a883028EA21d14E',
->>>>>>> parent of 4b0d154 (update)
       },
     ],
   },
