@@ -49,12 +49,12 @@ const config: MenuEntry[] = [
     icon: 'GroupsIcon',
     href: '/referrals',
   },
-  {
-    label: 'Info (Coming Soon)',
-    // icon: 'ReferralsIcon',
-    icon: 'InfoIcon',
-    href: '',
-  },
+  // {
+  //   label: 'Info (Coming Soon)',
+  //   // icon: 'ReferralsIcon',
+  //   icon: 'InfoIcon',
+  //   href: '',
+  // },
   // {
   //   label: 'NFT',
   //   icon: 'NftIcon',
