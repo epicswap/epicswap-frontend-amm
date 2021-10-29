@@ -66,19 +66,23 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'PancakeSwap',
-        href: 'https://pancakeswap.info/token/0x182Db9378Eb8FB4Eee006074bF4377c3D932620e',
+        // href: 'https://pancakeswap.info/token/0x182Db9378Eb8FB4Eee006074bF4377c3D932620e',
+        href: '',
       },
       {
         label: 'CoinGecko',
-        href: 'https://www.coingecko.com/en/coins/goose-finance',
+        // href: 'https://www.coingecko.com/en/coins/goose-finance',
+        href: '',
       },
       {
         label: 'CoinMarketCap',
-        href: 'https://coinmarketcap.com/currencies/goose-finance/',
+        // href: 'https://coinmarketcap.com/currencies/goose-finance/',
+        href: '',
       },
       {
         label: 'AstroTools',
-        href: 'https://app.astrotools.io/pancake-pair-explorer/0x182Db9378Eb8FB4Eee006074bF4377c3D932620e',
+        // href: 'https://app.astrotools.io/pancake-pair-explorer/0x182Db9378Eb8FB4Eee006074bF4377c3D932620e',
+        href: '',
       },
     ],
   },
