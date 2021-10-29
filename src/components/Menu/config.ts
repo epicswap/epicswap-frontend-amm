@@ -80,9 +80,8 @@ const config: MenuEntry[] = [
         href: '',
       },
       {
-        label: 'AstroTools',
-        // href: 'https://app.astrotools.io/pancake-pair-explorer/0x182Db9378Eb8FB4Eee006074bF4377c3D932620e',
-        href: '',
+        label: 'Dextools',
+        href: 'https://www.dextools.io/app/bsc/pair-explorer/0x3bf79bf0c50db9adbbe8a0f6f3a198288174fc76',
       },
     ],
   },
