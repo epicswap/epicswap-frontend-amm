@@ -22,14 +22,14 @@ const config: MenuEntry[] = [
     ]
   },
   {
-    label: 'Code',
+    label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://www.epicswap.io/code'
+    href: 'https://www.epicswap.io/farms'
   },
   {
-    label: 'Developing',
+    label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://www.epicswap.io/developing'
+    href: 'https://www.epicswap.io/pools'
   },
   {
     label: 'Lottery',
